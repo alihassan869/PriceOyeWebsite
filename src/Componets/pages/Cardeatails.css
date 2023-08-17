@@ -1,0 +1,22 @@
+.active1{
+  border: 3px solid skyblue;
+}
+.unactive1{
+  border: 1px solid gray;
+}
+.Storage .btn{
+  border: 1px solid gray;
+  padding: 10px 10px;
+}
+.Storage .btn:hover{
+  border: 3px solid skyblue;
+  color: skyblue;
+}
+.btnactive{
+  border: 3px solid skyblue;
+  color: skyblue;
+  padding: 10px 10px;
+}
+.form input{
+ max-width: 5000px;
+}
